@@ -22,7 +22,7 @@ pytz==2019.1
 requests==2.22.0
 six==1.12.0
 socketIO-client==0.7.2
-sqlparse==0.3.0
+sqlparse==0.4.4
 Unidecode==1.1.1
 urllib3==1.25.3
 websocket-client==0.56.0
